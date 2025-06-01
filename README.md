@@ -9,7 +9,7 @@
 
 ## 🛠️ Top Skills & Technologies
 
-- **eBPF**: Advanced experience in Linux kernel observability and networking
+- **eBPF**: Experience in Linux kernel observability and networking
 - **Networking**: Deep understanding of protocols, performance, and distributed systems
 - **LLM**: Research and implementation of large language models
 
@@ -19,8 +19,8 @@
 
 ## 🚀 Let's Connect!
 
-Feel free to check out my repositories or reach out via GitHub.
+Feel free to check out my repositories or reach out via Linkedin.
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=AdvH039&color=blueviolet)
+
