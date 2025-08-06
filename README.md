@@ -10,7 +10,7 @@
 ## 🛠️ Top Skills & Technologies
 
 - **eBPF**: Experience in Linux kernel observability and networking
-- **Networking**: Deep understanding of protocols, performance, and distributed systems
+- **Networking**: Deep understanding of protocols
 - **LLM**: Research and implementation of large language models
 
 ## 📊 GitHub Stats
