@@ -5,13 +5,7 @@
 ## 👨‍💻 About Me
 
 - 🧑‍💻 **Developer & Researcher** passionate about building and exploring new technologies
-- 🌐 **Main Focus:** eBPF, Networking, Large Language Models (LLM)
-
-## 🛠️ Top Skills & Technologies
-
-- **eBPF**: Experience in Linux kernel observability and networking
-- **Networking**: Deep understanding of protocols
-- **LLM**: Research and implementation of large language models
+- 🌐 **Main Focus:** Networking, Compilers
 
 ## 📊 GitHub Stats
 
